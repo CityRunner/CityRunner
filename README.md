@@ -1,16 +1,32 @@
-### Hi there 👋
-
-<!--
-**CityRunner/CityRunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "name": "CityRunner",
+    "website": "https://github.com/CityRunner",
+    "setup": {
+        "os": "Arch Linux",
+        "editor": "Kate",
+        "terminal": "Konsole with a custom theme",
+        "shell": "Bash",
+        "keyboard": "Custom mechanical keyboard",
+        "coding_music": True
+    },
+    "repositories": [
+        {
+            "name": "shifr-keyboard",
+            "description": "Compact wireless mechanical keyboard",
+            "type": "Hardware"
+        },
+        {
+            "name": "education-handbook",
+            "description": "Personal reshebnik of programming tasks and examples",
+            "type": "Software"
+        }
+    ],
+    "skills": [
+        "Quality assurance: Ensuring software meets established standards",
+        "GameDev hobbyist: Crafting digital experiences one pixel at a time",
+        "Automation: Slicing through repetitive tasks with scripts",
+        "Hardware enthusiast: Tinkering with tech to build the ultimate setup"
+    ]
+}
+```
